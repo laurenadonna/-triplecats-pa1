@@ -10,8 +10,8 @@
 
 #define MAX_EVENTS 64
 #define MESSAGE_SIZE 16
-#define MAX_WORKER_THREADS 4  // Number of worker threads
-#define BACKLOG 128           // Max pending connections
+#define MAX_WORKER_THREADS 4  //Number of worker threads
+#define BACKLOG 128           //Max pending connections
 
 char *server_ip = "127.0.0.1";
 int server_port = 12345;
