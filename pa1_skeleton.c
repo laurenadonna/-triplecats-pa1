@@ -20,7 +20,7 @@
 Please specify the group members here
 # Student #1: Joyce Yang
 # Student #2: Lauren Hensley
-# Student #3: Patricia
+# Student #3: Patricia Luna
 */
 
 #include <stdio.h>
